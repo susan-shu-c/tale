@@ -18,7 +18,7 @@ Just to illustrate, here is a brief timeline...
 - Kicked out of Economics to Liberal Studies…
 
 |\\___/|  
-(๑ﾟoﾟ)
+(๑ ﾟoﾟ )
 
 So what happened? And how did I manage to get accepted into the University of Toronto after that? Was it that I magically vanished all those failures, or that my definition of “failure” was incorrect? After crawling out of the then flaming ruins of my academic career and pulling myself back up, I finally learned that the answer is the latter. 
 
