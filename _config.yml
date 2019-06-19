@@ -1,7 +1,7 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
-url:            "https://chesterhow.github.io"
+title:          Logical Selection 2.0
+description:    "Post-mortems and how-tos"
+url:            "http://susanshu.com"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
@@ -9,7 +9,7 @@ google_analytics: UA—XXXXXXXX-X
 # Author
 author:
   name:         Shu
-  url:          https://susanshu.com
+  url:          http://susanshu.com
   email:        foo@gmail.com
 
 # Build settings
@@ -30,7 +30,7 @@ plugins:
   # - jemoji #Uncomment this to allow emoji in your post
 
 # Permalinks
-permalink:      /:year-:month-:day/:title
+permalink:      /:categories/:year-:month-:day/:title
 paginate:       5
 
 # Excludes
