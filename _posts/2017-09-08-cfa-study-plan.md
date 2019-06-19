@@ -97,4 +97,4 @@ I won’t cover the actual exam day here, but will probably do so in a future po
 - I focused on heavily weighted topics first and foremost.
 - I made sure my exam day logistics went smoothly (transportation, food was planned for).
 - Do Ethics last, and probably Economics second last. (Tailor this to your existing knowledge and experience.)
-- Watch out for burnout and allocate some breathing time if possible.
+- Watch out for burnout and allocate some breathing time.
