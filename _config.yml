@@ -1,7 +1,7 @@
 # Site settings
 title:          Logical Selection 2.0
 description:    A blog about productivity, achievement, getting over failure, and everything in between. Postmortems and how-tos.
-url:            "http://susanshu.com"
+url:            "https://susanshu.com"
 
 # Google Analytics
 google_analytics: UA-139221907-1
@@ -9,7 +9,7 @@ google_analytics: UA-139221907-1
 # Author
 author:
   name:         Shu
-  url:          http://susanshu.com
+  url:          https://susanshu.com
   email:        foo@gmail.com
 
 # Build settings

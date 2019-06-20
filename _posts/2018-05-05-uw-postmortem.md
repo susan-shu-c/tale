@@ -18,9 +18,9 @@ Just to illustrate, here is a brief timeline...
 - Kicked out of Economics to Liberal Studies…
 
 |\\___/|  
-(๑  ﾟoﾟ  )
+(๑   ﾟoﾟ  )
 
-So what happened? And how did I manage to get accepted into the University of Toronto after that? Was it that I magically vanished all those failures, or that my definition of “failure” was incorrect? After crawling out of the then flaming ruins of my academic career and pulling myself back up, I finally learned that the answer is the latter. 
+So what happened? And how did I manage to get accepted into the University of Toronto after that? Was it that I magically vanished all those failures, or that my definition of “failure” was incorrect? After crawling out of the then flaming ruins of my academic career and pulling myself back up, I finally learned that the answer is the latter.
 
 Sure, I had failed some courses, but I wasn’t a failure. Neither had I failed at life. I was placing way too much of my self worth in how smart I could prove myself to be in a percent grade, not how much I was enjoying life and exploring knowledge in my own way.
 
