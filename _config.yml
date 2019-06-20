@@ -36,9 +36,9 @@ pagination:
   enabled: true
   per_page: 5
   parmalink: '/page/:num/'
-  title: ' - page :num'
+  title: ':title - page :num of :max'
   limit: 0
-  sort_field: 'date'
+  # sort_field: 'date'
   sort_reverse: true
 
 # Excludes
