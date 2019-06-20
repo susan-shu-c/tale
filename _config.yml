@@ -31,7 +31,15 @@ plugins:
 
 # Permalinks
 permalink:      /:categories/:year/:month/:day/:title
-paginate:       5
+
+pagination:
+  enabled: true
+  per_page: 5
+  parmalink: '/page/:num/'
+  title: ' - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
