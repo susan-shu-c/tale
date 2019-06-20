@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I completed a graduate level course while working full time: a self-discipline framework"
-categories: university
+categories: academics
 ---
 
 It’s 9 pm on a Tuesday. Two hours of studying done. I’d gotten home from work at 6 pm, had a quick dinner, and got started on Euler equations. *18 more hours this week to go…*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I learned to be vulnerable: a postmortem of my University of Waterloo undergrad"
-categories: university
+categories: academics
 ---
 
 My parents didn’t know I had failed three university courses until *years later*, when I was almost finished with my master’s degree and already accepted a full time job offer. 

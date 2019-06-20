@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I passed the CFA Level 1 exam in 6 weeks: a study plan"
-categories: university
+categories: academics
 ---
 
 I studied for the [Chartered Financial Analyst](https://www.cfainstitute.org/){:target="_blank"}
