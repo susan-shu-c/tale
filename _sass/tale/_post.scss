@@ -27,6 +27,14 @@
     width: 4rem;
   }
 
+  &-endline {
+    padding: 3rem 1;
+    border-top: 0.4rem solid $default-shade;
+    display: block;
+    margin: 0 auto 3rem;
+    width: 4rem;
+  }
+
   p {
     margin: 0 0 1rem;
     text-align: justify;
