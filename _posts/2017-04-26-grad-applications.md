@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "How I applied to grad school: tips on reference letters and statement of purpose"
-categories: academics
+pagination:
+    enabled: true
+    category: academics
 ---
 
 Grad school application deadlines for Economics in Canadian universities were at around end of January to early February in the 2017 cycle. It was frankly an overwhelming experience and I hope some of my insights can help those interested in the process.
