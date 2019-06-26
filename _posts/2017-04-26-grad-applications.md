@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How I applied to grad school: tips on reference letters and statement of purpose"
+description: My tips on grad school applications. Reference letter requests and time line.
 categories: academics
 ---
 
@@ -71,7 +72,7 @@ Jokes aside, I did send my SOP to profs when asking them for reference letters, 
 Here are my general rules of thumb for SOP/cover letter type writing:
 
 - Include your areas of research interest, and why those areas. Especially if you have a supervisor in mind, and you've chatted them up already and want to do research with them, you should definitely emphasize your shared interests.
-- Brief overview of academic history from a good angle, especially if there are questionable grades. My Economics major average wasn't high, 75%. After some deliberation I didn't explicitly point out that it was low, but rather stressed how strong my 400-level grades were. [More on how I overcame my low average here](http://www.susanshu.com/university/2018/05/05/uw-postmortem){:target="_blank"}.
+- Brief overview of academic history from a good angle, especially if there are questionable grades. My Economics major average wasn't high, 75%. After some deliberation I didn't explicitly point out that it was low, but rather stressed how strong my 400-level grades were. [More on how I overcame my low average here](https://www.susanshu.com/academics/2018/05/05/uw-postmortem){:target="_blank"}.
 - I personally don't like sob stories, but maybe someone on admissions can shed more light... (see the resources linked below)
 
 #### More resources on SOP writing

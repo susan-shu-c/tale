@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How I learned to be vulnerable: a postmortem of my University of Waterloo undergrad"
+description: How I overcame failure in university to successfully get into grad school.
 categories: academics
 ---
 

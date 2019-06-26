@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How I completed a graduate level course while working full time: a self-discipline framework"
+description: The methods I used to be productive and achieving my academic goals even with a full time job.
 categories: academics
 ---
 
@@ -8,7 +9,7 @@ It’s 9 pm on a Tuesday. Two hours of studying done. I’d gotten home from wor
 
 Frankly, on many occasions I felt exasperated to face pages upon pages of macroeconomic derivations after an already full day of squinting at code and data. I was overclocking my mental capacity, perhaps at the risk of burning out.
 
-Thankfully, in the past several years, I have been developing a framework to carry me through large undertakings. Examples include [passing CFA Level 1 with six weeks of study](https://www.susanshu.com/university/2017/09/08/cfa-study-plan){:target="_blank"}, as well as coding a vertical slice of a video game.
+Thankfully, in the past several years, I have been developing a framework to carry me through large undertakings. Examples include [passing CFA Level 1 with six weeks of study](https://www.susanshu.com/academics/2017/09/08/cfa-study-plan){:target="_blank"}, as well as coding a vertical slice of a video game.
 
 Some statistics of the time I spent towards my goals, in the 12 week span of applying this framework for master’s:
 
