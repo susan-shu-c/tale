@@ -275,4 +275,6 @@ server {
 3. ICMP is a ping
 4. DO firewall - select your droplet and apply it
 5. (Optional) DO create snapshot of droplet - pretty cheap, can use snapshot to create droplets with this snapshot. Power down the droplet as instructed, then wait for snapshot to be created. Then power up the droplet again when done.
-6. Final notes: if you change computer you’ll have to copy the SSH keys to your new machine (if you have them saved locally) the ones that we generated with PuTTYgen and connect with Pageant
+6. Final notes: if you change computer you’ll have to copy the SSH keys to your new machine (if you have them saved locally) the ones that we generated with PuTTYgen and connect with Pageant (I'm not too sure about this one, could possibly generate another key pair and connect again?)
+
+Disclaimer: I do not claim to be an expert and any suggestions here do not guarantee anything regarding the security, stability, and other aspects of your web server! :)
