@@ -66,8 +66,9 @@ Big thanks to my friend [Tim](https://www.thetimmaeh.com){:target="_blank"} for 
    1. Step One - Logging in as Root
    2. Step Two - Creating a New User
    3. Step Three - Granting Administrative Privileges
-2. go to /root/.ssh
-3.
+2. go to `/root/.ssh`
+
+3. .
 
 ```console
 mkdir /home/<user>/.ssh
@@ -219,7 +220,7 @@ server {
         # real_ip_header X-Forwarded-For;
         ```
 
-## Deploy your site!
+## Deploy your site
 
 1. `sudo nginx -t`  - if output has `syntax is ok`, `test is successful` then continue. If not, common mistakes are: not having the correct url in your files (did you change them all to your domain?) or file name typos in the file paths
 2. If previous step ok, `sudo service nginx reload`
