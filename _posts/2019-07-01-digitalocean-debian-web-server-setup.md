@@ -16,6 +16,8 @@ So, you've built your website, bought a domain, and want to serve it up so peopl
 
 In order, here are the items I needed in order to make that come true, from a Windows machine.
 
+Big thanks to my friend [Tim](www.thetimmaeh.com){:target="_blank"} foro helping me out throughout the process!
+
 ### Services
 
 * **DigitalOcean** account - [my signup link for $100 off your first 2 months](https://m.do.co/c/d76a00a28bb4)
@@ -261,9 +263,10 @@ server {
 [25] 443                        ALLOW IN    2a06:98c0::/29
 ```
 
-<img src="/assets/digitalocean_firewall_settings.png" alt="DigitalOcean firewall settings"/>
-
 1. Final firewall! Now go to https://cloud.digitalocean.com/networking/firewalls?i=364749 and apply the following rules:
+
+    <img src="/assets/digitalocean_firewall_settings.png" alt="DigitalOcean firewall settings"/>
+
 2. These setting block everything except those ports on the DO firewall
 3. ICMP is a ping
 4. DO firewall - select your droplet and apply it
