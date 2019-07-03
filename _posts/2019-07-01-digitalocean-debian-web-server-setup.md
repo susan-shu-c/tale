@@ -62,6 +62,8 @@ Big thanks to my friend [Tim](https://www.thetimmaeh.com){:target="_blank"} for 
 
 ## Server setup with Debian 9, nginx server
 
+Fun fact: nginx is pronounced engine-x
+
 1. Following [DigitalOcean docs - initial server setup with Debian 9](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-9){:target="_blank"}
    1. Step One - Logging in as Root
    2. Step Two - Creating a New User
@@ -92,12 +94,13 @@ chown <user>:<user> -R /home/<user>/.ssh
     2. if someone gets ahold of your debian password and ssh key password, they might get into the server, but don’t have root privileges and can’t `sudo`
     3. Also they won’t know what your <username> is unless it’s saved in PuTTY session etc. (so discourage from saving it there, type it again every time)
 
-## Set up a firewall on Debian 9
+## Set up a firewall with ufw
 
 1. Back to [Step Four - Setting Up a Basic Firewall](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-9#step-four-%E2%80%94-setting-up-a-basic-firewall){:target="_blank"}
     * Now use `sudo` in front of every command
     * Skip Step Five
     * (Optional) Step Six
+    * By the way... `ufw` stands for uncomplicated firewall
 2. Adding CloudFlare
 3. `touch update-ufw-cloudflare.sh` - creates a file called `update-ufw-cloudflare.sh` (can be used for creating files in general)
 4. Right click or Shift+Ins can be used to paste
