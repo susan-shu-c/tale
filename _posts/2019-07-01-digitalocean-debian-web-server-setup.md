@@ -49,8 +49,8 @@ Big thanks to my friend [Tim](https://www.thetimmaeh.com){:target="_blank"} for 
    3. Upload the public key you generated with PuTTYgen to what it requests
 1. WinSCP - Tool > Pageant on login dialog box
    1. Add Key - select your private key (usually .ppk) - use the password you set (that it asks for)
-   2. Pageant is running on the task bar icon)
-   3. Pageant is so don’t have to set private key for ever program that connects to your server
+   2. Pageant is running on the task bar icon
+   3. Pageant is so don't have to set private key for every program that connects to your server
 1. Use SSH & SFTP into server using WinSCP, set the IP and user: `root` 
    1. Don’t need to enter anything else, WinSCP will check if Pageant (or equivalent software) is running and uses the private key info they provide
    2. IP: the DO control panel
@@ -88,7 +88,7 @@ chown <user>:<user> -R /home/<user>/.ssh
 7. Instead of `root`, put in `<user>`
 8. Checking if <user> has `sudo` permissions i.e. is a sudoer (admins)
 9. `sudo nano /etc/ssh/sshd_config` - enter the password
-10. Nano: ctrl+x, y, enter - closes and saves 
+10. Nano: ctrl+x, y, enter - closes and saves
 11. Line: `PermitRootLogin`, if commented with leading #, uncomment it and make sure it says “no” - `PermitRootLogin no`
     1. this is for security - when done can’t log in with `root` but can do everything else with `su`, `sudo`
     2. if someone gets ahold of your debian password and ssh key password, they might get into the server, but don’t have root privileges and can’t `sudo`
@@ -153,7 +153,7 @@ yes | /usr/sbin/ufw enable
 
 ```console
 cd /etc/nginx
-mkdir certs`
+mkdir certs
 cd certs
 mkdir <your_website>.com
 ```
