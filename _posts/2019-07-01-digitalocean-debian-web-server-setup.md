@@ -20,21 +20,21 @@ Big thanks to my friend [Tim](www.thetimmaeh.com){:target="_blank"} foro helping
 
 ### Services
 
-* **DigitalOcean** account - [my signup link for $100 off your first 2 months](https://m.do.co/c/d76a00a28bb4)
-* A domain - get it at your domain registrar of choice - I use [**NameSilo**](https://www.namesilo.com/register.php?rid=0255158yn) after trying both GoDaddy and Bluehost, NameSilo is my fave for its no-nonsense
-* **CloudFlare** account - https://www.cloudflare.com/
+* **DigitalOcean** account - [my signup link for $100 off your first 2 months](https://m.do.co/c/d76a00a28bb4){:target="_blank"}
+* A domain - get it at your domain registrar of choice - I use [**NameSilo**](https://www.namesilo.com/register.php?rid=0255158yn){:target="_blank"} after trying both GoDaddy and Bluehost, NameSilo is my fave for its no-nonsense
+* [**CloudFlare**](https://www.cloudflare.com/){:target="_blank"} account
 
 ### Software
 
-* **PuTTY** - to generate SSH keys and connect to the server using PuTTY terminal - https://www.putty.org/
+* [**PuTTY**](https://www.putty.org/){:target="_blank"} - to generate SSH keys and connect to the server using PuTTY terminal
   * Select "Package files" - you’ll want everything like **Pageant** and **PuTTYgen**
-* **WinSCP** - What you'll be using for easy upload/download of files to your server - https://winscp.net/eng/download.php
+* [**WinSCP**](https://winscp.net/eng/download.php){:target="_blank"} - What you'll be using for easy upload/download of files to your server
 
 ### Useful links
 
-1. [DigitalOcean docs - how to connect with SSH](https://www.digitalocean.com/docs/droplets/how-to/connect-with-ssh/)
-2. [DigitalOcean docs - initial server setup with Debian 9](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-9)
-3. [DigitalOcean docs - set up a firewall with Debian 9](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-debian-9)
+1. [DigitalOcean docs - how to connect with SSH](https://www.digitalocean.com/docs/droplets/how-to/connect-with-ssh/){:target="_blank"}
+2. [DigitalOcean docs - initial server setup with Debian 9](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-9){:target="_blank"}
+3. [DigitalOcean docs - set up a firewall with Debian 9](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-debian-9){:target="_blank"}
 
 ### Good to know
 
@@ -62,7 +62,7 @@ Big thanks to my friend [Tim](www.thetimmaeh.com){:target="_blank"} foro helping
 
 ## Server setup with Debian 9, nginx server
 
-1. Following https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-9
+1. Following [DigitalOcean docs - initial server setup with Debian 9](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-9){:target="_blank"}
    1. Step One - Logging in as Root
    2. Step Two - Creating a New User
    3. Step Three - Granting Administrative Privileges
@@ -93,7 +93,7 @@ chown <user>:<user> -R /home/<user>/.ssh
 
 ## Set up a firewall on Debian 9
 
-1. Back to [Step Four - Setting Up a Basic Firewall](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-9#step-four-%E2%80%94-setting-up-a-basic-firewall)
+1. Back to [Step Four - Setting Up a Basic Firewall](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-debian-9#step-four-%E2%80%94-setting-up-a-basic-firewall){:target="_blank"}
     * Now use `sudo` in front of every command
     * Skip Step Five
     * (Optional) Step Six
@@ -135,9 +135,9 @@ yes | /usr/sbin/ufw enable
 1. Sign into CloudFlare - add your domain
 2. Go to your domain provider - e.g. GoDaddy, NameSilo 
 3. Go to control panel for your domain - DNS settings
-4. Point them to what CloudFlare says https://support.cloudflare.com/hc/en-us/articles/205195708-Changing-your-domain-nameservers-to-Cloudflare
+4. Point them [according to CloudFlare's instructions](https://support.cloudflare.com/hc/en-us/articles/205195708-Changing-your-domain-nameservers-to-Cloudflare){:target="_blank"}
    1. This step might take a while while domain registrar and CloudFlare update your records. Proceed with the next steps in the time being
-1. Installing nginx https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-debian-9
+1. Back to [DigitalOcean docs](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-debian-9){:target="_blank"}
 2. Make sure you do `sudo systemctl enable nginx` (at the end leave it on the enabled state)
 3. Go to DO control panel and enable Floating IP, copy it
    1. Go to CloudFlare and go to the DNS settings
@@ -155,7 +155,7 @@ mkdir <your_website>.com
 ```
 
 9. .
-    1. Folder will look like `etc/nginx/certs/<your_website>.com
+    1. Folder will look like `etc/nginx/certs/<your_website>.com`
     2. Save the CloudFlare certificates as `origin-certificate.pem`, `origin-certificate.key` (or whatever name makes it clear to you what they are)
     3. Back to `certs` directory
     4. `wget https://support.cloudflare.com/hc/en-us/article_attachments/201243967/origin-pull-ca.pem`
@@ -263,7 +263,7 @@ server {
 [25] 443                        ALLOW IN    2a06:98c0::/29
 ```
 
-1. Final firewall! Now go to https://cloud.digitalocean.com/networking/firewalls?i=364749 and apply the following rules:
+1. Final firewall! Now go to [DigitalOcean firewall panel](https://cloud.digitalocean.com/networking/firewalls){:target="_blank"} and apply the following rules:
 
     <img src="/assets/digitalocean_firewall_settings.png" alt="DigitalOcean firewall settings"/>
 
