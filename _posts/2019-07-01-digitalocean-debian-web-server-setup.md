@@ -5,9 +5,10 @@ description: "This is a complete step by step guide on how to set up your server
 categories: tech
 ---
 
+This is a complete step by step guide on how to set up your server from scratch with DigitalOcean, SFTP, and firewalls, from a Windows machine. I'm writing this from a relative beginner's perspective so that even if you have no experience you'll be able to follow along.
+
 * TOC
 {:toc}
-This is a complete step by step guide on how to set up your server from scratch with DigitalOcean, SFTP, and firewalls, from a Windows machine. I'm writing this from a relative beginner's perspective so that even if you have no experience you'll be able to follow along.
 
 ## What you'll need
 
@@ -260,7 +261,7 @@ server {
 [25] 443                        ALLOW IN    2a06:98c0::/29
 ```
 
-<img style="padding: 15px; float: left;" src="/assets/digitalocean_firewall_settings.png" alt="DigitalOcean firewall settings" width="250"/>
+<img src="/assets/digitalocean_firewall_settings.png" alt="DigitalOcean firewall settings"/>
 
 1. Final firewall! Now go to https://cloud.digitalocean.com/networking/firewalls?i=364749 and apply the following rules:
 2. These setting block everything except those ports on the DO firewall
