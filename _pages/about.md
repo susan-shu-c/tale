@@ -35,7 +35,7 @@ I love what I do, and what gets me up every day is that I have much, much more t
         <li>Speaker, <a href="https://www.eventbrite.ca/e/toronto-machine-learning-micro-summit-series-tmls-insurance-telecom-2019-tickets-62285607930" target="_blank">Big Data Use Cases in Telecommunications</a></li>
         <li>Panelist, <a href="https://www.meetup.com/tordatascience/events/259945153/" target="_blank">Embracing Open Source in a Large Enterprise</a></li>
         <li>Facilitator, <a href="https://aisc.ai.science/events/2019-06-24/" target="_blank">Assessing Modeling Variability in Autonomous Vehicle Accelerated Evaluation</a></li>
-        <li>Facilitator, <a href="https://aisc.ai.science/events/2019-02-25/" target="_blank">\[AlphaGo Zero\] Mastering the game of Go without human knowledge</a></li>
+        <li>Facilitator, <a href="https://aisc.ai.science/events/2019-02-25/" target="_blank">[AlphaGo Zero] Mastering the game of Go without human knowledge</a></li>
     </ul>
 
 </details>
