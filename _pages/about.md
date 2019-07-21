@@ -31,10 +31,12 @@ I love what I do, and what gets me up every day is that I have much, much more t
 <details>
     <summary>Speaker / Facilitator</summary>
 
-* Speaker, [Big Data Use Cases in Telecommunications](https://www.eventbrite.ca/e/toronto-machine-learning-micro-summit-series-tmls-insurance-telecom-2019-tickets-62285607930)  
-* Panelist, [Embracing Open Source in a Large Enterprise](https://www.meetup.com/tordatascience/events/259945153/)  
-* Facilitator, [Assessing Modeling Variability in Autonomous Vehicle Accelerated Evaluation](https://aisc.ai.science/events/2019-06-24/)  
-* Facilitator, [\[AlphaGo Zero\] Mastering the game of Go without human knowledge](https://aisc.ai.science/events/2019-02-25/)
+    <ul>
+        <li>Speaker, <a href="https://www.eventbrite.ca/e/toronto-machine-learning-micro-summit-series-tmls-insurance-telecom-2019-tickets-62285607930" target="_blank">Big Data Use Cases in Telecommunications</a></li>
+        <li>Panelist, <a href="https://www.meetup.com/tordatascience/events/259945153/" target="_blank">Embracing Open Source in a Large Enterprise</a></li>
+        <li>Facilitator, [Assessing Modeling Variability in Autonomous Vehicle Accelerated Evaluation](https://aisc.ai.science/events/2019-06-24/)</li>
+        <li>Facilitator, [\[AlphaGo Zero\] Mastering the game of Go without human knowledge](https://aisc.ai.science/events/2019-02-25/)</li>
+    </ul>
 
 </details>
 
