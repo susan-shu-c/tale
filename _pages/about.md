@@ -28,6 +28,17 @@ I love what I do, and what gets me up every day is that I have much, much more t
 
 ## Events
 
+<details open>
+    <summary>Upcoming</summary>
+
+    <ul>
+        <li>Speaker, <a href="https://aisc.ai.science/events/2019-11-18/" target="_blank">Top-K Off-Policy Correction for a REINFORCE Recommender System</a></li>
+        <li>Facilitator, <a href="https://aisc.ai.science/events/2019-08-26/" target="_blank">TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing</a></li>
+    </ul>
+
+</details>
+
+
 <details>
     <summary>Speaker / Facilitator</summary>
 
