@@ -5,9 +5,7 @@ description: "This beginner-friendly guide outlines steps to choose a data scien
 categories: tech
 ---
 
-## Overview
-
-I've often been asked the question: *How do I pick a good data science side project*? Here is my approach to come up with an idea shortlist, plan out concrete steps, and most importantly, **execute** on the project to completion. This is a beginner-friendly guide.
+I've often been asked the question: *How do I pick a good data science side project*? Here is my approach to come up with an idea shortlist, plan out concrete steps, and most importantly, **execute** on the project to completion.
 
 * TOC
 {:toc}
