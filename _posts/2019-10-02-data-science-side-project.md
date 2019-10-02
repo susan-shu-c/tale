@@ -93,7 +93,7 @@ Well, I'm not saying that you can't do the above, but I feel that the more uniqu
 
 Meanwhile, those that truly look like passion projects tend to stand out to me, and as an interviewer, I love to ask the candidate about them!
 
-Another question I'd you to ask yourself, as a thought exercise is: Would I talk about this at a conference?
+Another question I encourage you to ask yourself, as a thought exercise, is: Would I talk about this at a conference?
 
 When you think about it that way - no one talks about their code from assignment [n] from [Coursera course], [x course from 4th year that 100s of other people also did] at a conference (in general). When I think of conference talks, I usually think about a unique product the speaker created, or unique problem they solved, that means something to them.
 
@@ -105,9 +105,9 @@ Keep in mind that all of this is variable: things may change once you get starte
 
 Once you have some details written down, you'll be ready to move on to the next step.
 
-### Making your first step
+### Taking your first step
 
-Alright! Here we are, at the last step of planning, which will help you make your first step on your side project!
+Alright! Here we are, at the last step of planning, which will help you take your first step on your side project!
 
 To recap, you'll have the following components ready from the previous sections:
 
