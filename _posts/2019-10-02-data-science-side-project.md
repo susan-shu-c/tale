@@ -127,7 +127,7 @@ Here, what works best for me is breaking up the problem. In the above example, i
 
 At this point, I usually start with the portion I find slightly easier, in this case, 1., and break it down even further into tasks.
 
-#### Training a neural network to classify character from the video game, League of Legends
+*Training a neural network to classify character from the video game, League of Legends*
 
 1. Collecting training images
 2. Selecting a neural network architecture
@@ -135,12 +135,12 @@ At this point, I usually start with the portion I find slightly easier, in this 
 
 Then, recursively breaking down the easiest, or sequentially earliest step into yet smaller steps:
 
-#### Collecting training images
+*Collecting training images*
 
 1. Using Beautiful Soup or Scrapy to get training images (from where? Find out)
 2. Cropping or resizing the images to a way that's suitable input for the neural network
 
-#### Using Beautiful Soup or Scrapy to get training images
+*Using Beautiful Soup or Scrapy to get training images*
 
 1. Find a website to scrape from (Google image search?)
 2. Write code! Never used Scrapy before!
