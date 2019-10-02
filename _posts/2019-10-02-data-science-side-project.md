@@ -103,7 +103,7 @@ Now, spend some time designing your side project with those lens, focusing on th
 
 * What will the side project look like, when it's "complete"? i.e. defining an end point to the project
 
-Keep in mind that all of this is variable: things may change once you get started with the project, and that's okay. The key is to get start, and not get stuck in planning limbo.
+Keep in mind that all of this is variable: things may change once you get started with the project, and that's okay. The key is to get started, and not get stuck in planning limbo.
 
 Once you have some details written down, you'll be ready to move on to the next step.
 
@@ -153,7 +153,7 @@ Next up, you work your way up the branches, till the bigger steps are done as we
 
 ## Parting words
 
-During my side projects, I've had many times I got stuck, or ran out of motivation. I hope that what I've learned can help you create your action plan and clearly see your first steps!
+During my side projects, I've had many times I got stuck, or ran out of motivation. I've learned so much from overcoming those challenges, and this article is written with all my experience in mind - to help you create your action plan and clearly see your first steps!
 
 If you have any questions or feedback, feel free to reach out. If this guide has helped you, I'd love to hear about it.
 
