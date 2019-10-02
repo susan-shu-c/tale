@@ -30,7 +30,7 @@ I want you to genuinely think about your reasons. When I look back at my project
 
 Now that I hope you've had a conversation with yourself, note down your reason for doing a data science project. There is **no right or wrong**. It could be something like "I just want to look cool to my classmates". You don't have to tell me; you don't have to tell anyone, just yourself.
 
-## Your skillset wishlist
+### Your skillset wishlist
 
 The second thing I'd like you to write down is: What skillset(s) do you want to **learn and demonstrate** with this side project?
 
@@ -38,7 +38,7 @@ You can start with writing down your wishlist of skills - feel free to write dow
 
 An example:
 
-* [x] language, [y] package: for example, "I want to learn Flask (Python web framework)"
+* \[x] language, [y] package: for example, "I want to learn Flask (Python web framework)"
 * A concrete vision of the outcome: "I want to demonstrate I can make a web app that can take in user input and output something back to the user" (we can refine the details later, for now focus on a brain dump)
 
 Now, you should have a wishlist of skills you want to learn and some ideas of how the outcome would look like. Here's an example of what my wishlist might have looked like, when I was starting out in data science:
