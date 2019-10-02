@@ -149,7 +149,7 @@ Now, these two steps don't look as daunting as the larger step we had, "Training
 
 One you complete a small step, that's great! You just got started with your side project!
 
-Next up, you work your way up the branches, till the bigger steps are done as well. Then, you'll slowly see the outcome you envisioned coming to life. And not only that - you'll be learning and demonstrating your **skillset wishlist** as well as fulfilling **your reason of doing a data science side project**.
+Next up, you work your way up the branches, till the bigger steps are done as well. Then, you'll slowly see the outcome you envisioned coming to life. And not only that - you'll be learning and demonstrating your **[skillset wishlist]** as well as fulfilling **[your reason of doing a data science side project]**.
 
 ## Parting words
 
