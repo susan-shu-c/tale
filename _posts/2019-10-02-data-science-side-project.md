@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "How to choose a data science project - and maximize your motivation to complete it"
-description: "This article outlines steps to choose a data science side project, so you leave with a detailed action plan on just how to start it, and how to carry it to completion."
+description: "This beginner-friendly guide outlines steps to choose a data science side project, so you leave with a detailed action plan on just how to start it, and how to carry it to completion."
 categories: tech
 ---
 
 ## Overview
 
-I've often been asked the question: *How do I pick a good data science side project*? Here is my approach to come up with an idea shortlist, plan out concrete steps, and most importantly, **execute** on the project to completion.
+I've often been asked the question: *How do I pick a good data science side project*? Here is my approach to come up with an idea shortlist, plan out concrete steps, and most importantly, **execute** on the project to completion. This is a beginner-friendly guide.
 
 * TOC
 {:toc}
@@ -28,7 +28,7 @@ Reasons could be:
 
 I want you to genuinely think about your reasons. When I look back at my projects that I succeeded in completing, versus those that I didn't, the **why** and meaning of the project to me, made the **biggest difference**. It was a better predictor of project completion than programming difficulty, unfamiliarity with tech stack, and so on.
 
-Now that I hope you've had a conversation with yourself, note down your reason for doing a data science project. There is **no right or wrong**. It could be something like "I just want to look cool to my classmates". You don't have to tell me; you don't have to tell anyone, just yourself.
+Now that I hope you've had a conversation with yourself, note down your reason for doing a data science project. There is **no right or wrong**. It could be something like "I just want to look cool to my classmates". You don't have to tell me; you don't have to tell anyone, just be honest with *yourself*.
 
 ### Your skillset wishlist
 
@@ -68,7 +68,7 @@ Remember the question "why am I doing this data science side project" from the f
 
 Here's where I really want to suggest a one size fits all solution, which you don't have to accept, but hear me out here...
 
-Whether your real reason is to look cool, show off, "so my GitHub isn't empty", to learn [x], or whatever - I'm suggesting you design the side project with 1 criteria.
+Whether your real reason is to look cool, show off, "so my GitHub isn't empty", to learn [x], or whatever - I'm suggesting you design the side project with *one* criteria.
 
 ```
 Do something that is meaningful to you.
@@ -76,7 +76,7 @@ Do something that is meaningful to you.
 
 Yes, I know it's cheesy, but this is what I find makes the biggest difference between me completing a project or not.
 
-When I was developing a video game, I could be thinking about "what is most popular; what sells?" and try to make a multi-player battle royale first person shooter. (Mashups of genres popular with the general public, as well as a buzzword.)
+When I was developing a video game, I could be thinking about "what is most popular; what sells?" and try to make a multi-player battle royale first person shooter. (Mashups of genres popular with the general public.)
 
 Well, if I had only considered external factors such as buzzwords (or "employability"), I would have been doing a side project so generic and boring to me, I would probably be miserable and start finding excuses to stop. But if you don't carry it to completion, you wouldn't be able to demonstrate your **[skillset wishlist]**, which you wanted to learn because of **[your reason of doing a data science side project]**!
 
@@ -84,7 +84,7 @@ So, the way I focus on designing my projects are: **What will let me have fun? W
 
 It's rare that you're going to have a project all to yourself, with full control; cherish it to do something that's distinct!
 
-Do something silly! Do something that only you and your friends would understand!
+Feel free to do something silly! Do something that only you and your friends would understand!
 
 I know that you might have questions now:
 
@@ -125,7 +125,7 @@ Here, what works best for me is breaking up the problem. In the above example, i
 1. Training a neural network to classify character from the video game, League of Legends
 2. Having a web app (with a front end) that can somehow connect the user-uploaded image, pass it through the neural network, and get the result
 
-At this point, I usually start with the portion I find slightly easier, in this case, 1., and break it down even further into tasks.
+At this point, I usually start with the portion I find slightly easier, in this case, `1.`, and break it down even further into tasks.
 
 *Training a neural network to classify character from the video game, League of Legends*
 
@@ -143,7 +143,7 @@ Then, recursively breaking down the easiest, or sequentially earliest step into 
 *Using Beautiful Soup or Scrapy to get training images*
 
 1. Find a website to scrape from (Google image search?)
-2. Write code! Never used Scrapy before!
+2. Write code! But I've never used Scrapy before!
 
 Now, these two steps don't look as daunting as the larger step we had, "Training a neural network to classify character from the video game, League of Legends". In fact, these two steps are fairly easy. The first step doesn't require coding, just browsing some image hosting sites for something that works for the project. The second step can be started with googling, but at this point it's easy to begin your actual steps into this side project - even if it's with a Stack Overflow question about "how to use Scrapy?"
 
