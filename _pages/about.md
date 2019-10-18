@@ -14,11 +14,11 @@ Hi!
 
 Currently I’m a data scientist in the telecommunications industry.
 
-In the field of machine learning, I’m a Steer Committee Member and blog editor of [A.I. Socratic Circles](https://aisc.a-i.science/){:target="_blank"} (formerly Toronto Deep Learning Series), where we get together weekly to discuss machine learning academic research and keep up with state of the art in industry.
+In the field of machine learning, I’m a Steering Committee Member and blog editor of [A.I. Socratic Circles](https://aisc.a-i.science/){:target="_blank"} (formerly Toronto Deep Learning Series), where we get together weekly to discuss machine learning research and keep up with state of the art in industry.
 
 I enjoy volunteering to give back to the community - you can find me mentoring or speaking at various workshops around Toronto.
 
-I’m also an indie game developer, having showcased my game in Bit Bazaar and Damage Camp, both gaming conferences held in Toronto.
+I’m also an indie game developer, having showcased my game in Bit Bazaar and Damage Camp, both gaming conferences held in Toronto. The game has also been mentioned on PC Gamer, Destructoid, and other major gaming news sites.
 
 I’m a 2-time speaker at Visual;Conference where I shared my knowledge on marketing on Steam as an indie dev, as well as my game development pipeline.
 
