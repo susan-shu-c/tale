@@ -14,7 +14,7 @@ Hi!
 
 Currently I’m a data scientist in the telecommunications industry.
 
-In the field of machine learning, I’m lead editor of the [A.I. Socratic Circles blog](https://aisc.a-i.science/blog/){:target="_blank"} (formerly Toronto Deep Learning Series), where we post explanations of new developments in the field from publications and conferences.
+In the field of machine learning, I’m a Steer Committee Member and blog editor of [A.I. Socratic Circles](https://aisc.a-i.science/){:target="_blank"} (formerly Toronto Deep Learning Series), where we get together weekly to discuss machine learning academic research and keep up with state of the art in industry.
 
 I enjoy volunteering to give back to the community - you can find me mentoring or speaking at various workshops around Toronto.
 
@@ -33,7 +33,8 @@ I love what I do, and what gets me up every day is that I have much, much more t
 
     <ul>
         <li>Speaker, <a href="https://aisc.ai.science/events/2019-11-18/" target="_blank">Top-K Off-Policy Correction for a REINFORCE Recommender System</a></li>
-        <li>Facilitator, <a href="https://aisc.ai.science/events/2019-08-26/" target="_blank">TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing</a></li>
+        <li>Speaker, <a href="https://2019.pycon.ca/schedule-day-1/" target="_blank">PyCon Canada, Narrative-focused video games development with Ren'Py</a></li>
+        <li>Speaker, PyLadies Toronto</li>
     </ul>
 
 </details>
@@ -43,6 +44,7 @@ I love what I do, and what gets me up every day is that I have much, much more t
     <summary>Speaker / Facilitator</summary>
 
     <ul>
+        <li>Facilitator, <a href="https://aisc.ai.science/events/2019-08-26/" target="_blank">TensorFuzz: Debugging Neural Networks with Coverage-Guided Fuzzing</a></li>
         <li>Speaker, <a href="https://www.eventbrite.ca/e/toronto-machine-learning-micro-summit-series-tmls-insurance-telecom-2019-tickets-62285607930" target="_blank">Big Data Use Cases in Telecommunications</a></li>
         <li>Panelist, <a href="https://www.meetup.com/tordatascience/events/259945153/" target="_blank">Embracing Open Source in a Large Enterprise</a></li>
         <li>Facilitator, <a href="https://aisc.ai.science/events/2019-06-24/" target="_blank">Assessing Modeling Variability in Autonomous Vehicle Accelerated Evaluation</a></li>
