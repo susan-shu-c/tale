@@ -33,5 +33,12 @@ plugins:
 permalink:      /:categories/:year/:month/:day/:title
 paginate:       5
 
+defaults:
+  - 
+    image:
+      path: android-chrome-512x512.png
+      height: 200
+      width: 200
+
 # Excludes
 exclude: [ Gemfile, Gemfile.lock, tale.gemspec ]
