@@ -68,9 +68,7 @@ Here's where I really want to suggest a one size fits all solution, which you do
 
 Whether your real reason is to look cool, show off, "so my GitHub isn't empty", to learn [x], or whatever - I'm suggesting you design the side project with *one* criteria.
 
-```
-Do something that is meaningful to you.
-```
+> Do something that is meaningful to you.
 
 Yes, I know it's cheesy, but this is what I find makes the biggest difference between me completing a project or not.
 
@@ -151,7 +149,7 @@ Next up, you work your way up the branches, till the bigger steps are done as we
 
 ## Parting words
 
-During my side projects, I've had many times I got stuck, or ran out of motivation. I've learned so much from overcoming those challenges, and this article is written with all my experience in mind - to help you create your action plan and clearly see your first steps!
+During my side projects, I've had many times I got stuck, or ran out of motivation. I've learned so much from overcoming those challenges, and this article is written with all my experience in mind - to help you create your action plan and get started!
 
 If you have any questions or feedback, feel free to reach out. If this guide has helped you, I'd love to hear about it.
 
