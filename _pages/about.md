@@ -29,18 +29,18 @@ I love what I do, and what gets me up every day is that I have much, much more t
 ## Events
 
 <details open>
-    <summary>Upcoming</summary>
+    <summary>Recent</summary>
 
     <ul>
         <li>Speaker, <a href="https://aisc.ai.science/events/2019-11-18/" target="_blank">Top-K Off-Policy Correction for a REINFORCE Recommender System</a></li>
         <li>Speaker, <a href="https://2019.pycon.ca/schedule-day-1/" target="_blank">PyCon Canada, Narrative-focused video games development with Ren'Py</a></li>
-        <li>Speaker, PyLadies Toronto</li>
+        <li>Speaker, <a href="https://www.meetup.com/PyLadies-Toronto/events/265218106/" target="_blank"> PyLadies Toronto</a></li>
     </ul>
 
 </details>
 
 
-<details>
+<details open>
     <summary>Speaker / Facilitator</summary>
 
     <ul>
@@ -53,7 +53,7 @@ I love what I do, and what gets me up every day is that I have much, much more t
 
 </details>
 
-<details>
+<details open>
     <summary>Mentor</summary>
 
     <ul>
