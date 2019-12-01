@@ -31,7 +31,7 @@ plugins:
 
 # Permalinks
 permalink:      /:categories/:year/:month/:day/:title
-paginate:       5
+paginate:       10
 
 defaults:
   - 
