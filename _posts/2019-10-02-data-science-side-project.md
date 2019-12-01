@@ -68,7 +68,7 @@ Here's where I really want to suggest a one size fits all solution, which you do
 
 Whether your real reason is to look cool, show off, "so my GitHub isn't empty", to learn [x], or whatever - I'm suggesting you design the side project with *one* criteria.
 
-> Do something that is meaningful to you.
+> **Do something that is meaningful to you.**
 
 Yes, I know it's cheesy, but this is what I find makes the biggest difference between me completing a project or not.
 

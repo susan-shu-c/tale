@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How I passed the CFA Level 1 exam in 6 weeks: a study plan"
+title: "How I passed the CFA Level 1 exam in 1.5 months: a study plan"
 description: How I passed the CFA Level 1 exam by only studying for a short span of time.
 categories: academics
 ---
