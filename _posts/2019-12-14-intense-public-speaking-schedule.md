@@ -71,7 +71,7 @@ The whole point of giving any talk is so that the audience can take away an idea
 Yes, the title of this sub-section is worded strongly, and I do have strong feelings about these points. You've encountered speakers like this, I've encountered speakers like these, we all have. So the following points should be a universal feeling.
 
 1. Have slides so dense with words that the audience struggles to pick between reading the slides, or hearing you talk, to the point they fail to do either of them, or space out. I've heard talks like this where I felt it was a massive waste of everyone's time. I might as well read the slides at home. This style is common in lecture halls (and why I skipped class so often), but they don't belong in more public settings or to a mixed (e.g. technical and business mix) setting.
-2. The speaker reads the slides verbatim - not feeling like a talk. Same as the previous point, I might as well read the slides at home if the talking portion isn't giving the audience any value for the time they spend physically being in that talk space.
+2. The speaker reads the slides verbatim - not feeling like a talk. Same as the previous point, I might as well read the slides at home if the talking portion isn't giving the audience any value for the time they spend physically being in that auditorium.
 
 So, what do these points have to do with my tactic of making the slides? I guess my point is that, in order to not waste my own time and the audience's time, the communication part has to be well executed. This means my words and slides should compliment and enhance each other so that the above 2 time-wasters don't happen. And, the more the above 2 time-wasters happen, the less the audience can understand my talk, and the less they walk away remembering my key points, which are the reasons I spent all that time preparing for the talks in the first place!
 
@@ -81,11 +81,11 @@ For a technical person like me, it was life-changing. I started to think of slid
 
 My main tips are:
 
-1. Use headers to drive home the point of that slide
+**Use headers to drive home the point of that slide**
 
 Instead of using headers as the title of a list of bullet points, basically have your conclusion of the slide in the header or kicker. If the audience only reads one thing on the slide (happens more often than not), and that's the header of the slide. It's precious real estate - and if they're starting to space out (bad) or focus on the presenter's words (good), they might as well at least have that takeaway.
 
-2. Make your slides with the thought - how do I help the audience understand the point?
+**Make your slides with the thought - how do I help the audience understand the point?**
 
 A talk is like a performance in a sense, but instead of, say, an instrument, you're doing the performance with words and visuals. The goal of this performance is for the audience to understand some topic, or even to be persuaded. The performance can be seen as a product in this sense, which is why I treat the slides and talk like an MVP, and get feedback aggressively. Following this logic, when creating the product, consisting of slides and words, thinking from the perspective of the user is important! I guess it's like user interface design and optimization...
 
@@ -101,4 +101,4 @@ However, I'd really try to avoid such a busy schedule in the future, because my 
 
 One more thing is that I aggressively asked for feedback, and was able to improve throughout the month. I think in the last talk, I wasn't maintaining my energy level, which was also a feedback I got during the month. (It also could have been due to the condition of my body and lack of sleep), but having been through this experience I hope to improve so I can avoid my energy level going down throughout a long talk.
 
-Lastly, my time management and discpline tactics worked well - I had the image to the left as my phone wall paper for the entire month. It's a checklist of milestones such as when the dry runs were scheduled, when I planned to have the MVP slides done, and so on.
+Lastly, my time management and discipline tactics worked well - I had the image to the left as my phone wall paper for the entire month. It's a checklist of milestones such as when the dry runs were scheduled, when I planned to have the MVP slides done, and so on.
