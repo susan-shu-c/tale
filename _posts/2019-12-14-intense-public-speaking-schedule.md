@@ -25,7 +25,7 @@ The timeline was extremely tight - I had to start creating my content and slides
 
 Doing many dry runs is the single reason I could finish preparation for the talks on time. This was new to my public speaking preparation routine, because I usually could deliver decent talks by "winging it" or getting prompted by my slide content.
 
-Winging it often worked well enough, because I have pretty good experience speaking from giving tutorials at Rotman business school (as a teaching assistant), as well as multiple technical conference talks [in the past](https://www.susanshu.com/about){:target="_blank"}. I've also been on stage many times since childhood, from speaking competitions to musical performances in piano and guitar. So "winging it" was definitely a skill I slowly developed throughout my experiences, and not made in a day.
+Winging it often worked well enough, because I have pretty good experience speaking from giving tutorials at Rotman business school (as a teaching assistant), as well as multiple technical conference talks [in the past](https://www.susanshu.com/about){:target="_blank"} on data science or game development. I've also been on stage many times since childhood, from speaking competitions to musical performances in piano and guitar. So "winging it" was definitely a skill I slowly developed throughout my experiences, and not made in a day.
 
 However, there was a major difference this time around - I always had enough time to exclusively practice one presentation in the past, so being able to get to the point of mastery where I didn't have to think too much on stage, was crucial because of all the different topics I was giving in a short span of time.
 
@@ -64,7 +64,7 @@ Because I used skeletons of slide content, I was able to iterate quickly on feed
 
 ## Tactic 3 - Slides do matter, for maximum effect
 
-Look - I'm a technical person by training. I used LaTeX slide decks all through grad school so that math equations look pretty. They do not look pretty for presentations outside of the lecture hall, without careful deliberation. This was a blessing and a curse - people in technical circles do not expect slides to look pretty, and do not expect speakers to be charismatic. By at least having a bit of the latter... let's say I was able to get the spotlight more easily. Improving public speaking skills is an investment in yourself worth making!
+Look - I'm a technical person by training. I used LaTeX slide decks all through grad school so that math equations look pretty. They do *not* look pretty for presentations outside of the lecture hall, without careful deliberation. This was a blessing and a curse - people in technical circles do not expect slides to be clear, and do not expect speakers to be charismatic. By at least having a bit of the latter... let's say I was able to get the spotlight more easily. Improving public speaking skills is an investment in yourself worth making!
 
 The whole point of giving any talk is so that the audience can take away an idea or concept that I am explaining and sharing. If either of below situations happen, I might as well have **wasted all my time preparing and giving the talk, as well as the audience's time**.
 
@@ -75,13 +75,11 @@ Yes, the title of this sub-section is worded strongly, and I do have strong feel
 1. Have slides so dense with words that the audience struggles to choose between reading the slides, or hearing you talk, to the point they fail to do either of them, or space out. I've heard talks like this where I felt it was a massive waste of everyone's time. I might as well read the slides at home. This style is common in lecture halls (and why I skipped class so often), but they don't belong in more public settings or to a mixed (e.g. technical and business mix) setting.
 2. The speaker reads the slides verbatim - not feeling like a talk. Same as the previous point, I might as well read the slides at home if the talking portion isn't giving the audience any value for the time they spend physically getting to, and being in that auditorium.
 
-So, what do these points have to do with my tactic of making the slides? I guess my point is that, in order to not waste my own time and the audience's time, the communication part has to be well executed. This means my words and slides should compliment and enhance each other so that the above 2 time-wasters don't happen. And, the more the above 2 time-wasters happen, the less the audience can understand my talk, and the less they walk away remembering my key points, which are the reasons I spent all that time preparing for the talks in the first place!
+So, what do these points have to do with my tactic of making the slides? My point is that, in order to not waste my own time and the audience's time, the communication has to be well executed. This means my words and slides should compliment and enhance each other so that the above 2 time-wasters don't happen. The more the above 2 time-wasters happen, the less the audience can understand my talk, and the less they walk away remembering my key points, which are the reasons I spent all that time preparing for the talks in the first place!
 
-I'm not going to go into PowerPoint basics here, but I went to a [PrezExpert](https://www.prezexpert.com/){:target="_blank"} training, a full day workshop, courtesy of my workplace.
+I went to a [PrezExpert](https://www.prezexpert.com/){:target="_blank"} training, a full day workshop, courtesy of my workplace. For a person that never liked making slides before, it was life-changing. I started to think of slides as complimentary to my talks, not something to get over with as soon as possible. The time spent on slides has **incredible return on investment**. They really matter for helping the audience understand me, be it a business or technical or mixed topic difficulty.
 
-For a person that never liked making slides before, it was life-changing. I started to think of slides as complimentary to my talks, not something to get over with as soon as possible. The time spent on slides has **incredible return on investment**. They really matter for helping the audience understand me, be it a business or technical or mixed topic difficulty.
-
-My main tips are:
+My main tips for making presentation slides that enhance a talk are:
 
 ### Use headers to drive home the point of each slide
 
