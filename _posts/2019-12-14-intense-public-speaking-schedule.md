@@ -22,8 +22,7 @@ The timeline was extremely tight - I had to have all my slides ready way in adva
 
 This is the single reason I could finish preparation for the talks on time. I used to not have many dry runs in my talk preparations, and usually could deliver decent talks by "winging it" or getting prompted by my slide content.
 
-Winging it often worked well enough, because I have pretty good experience speaking from giving tutorials at Rotman business school (as a teaching assistant), as well as multiple technical conference talks [in the past](www.susanshu.com/about){:target="_blank"}
-.
+Winging it often worked well enough, because I have pretty good experience speaking from giving tutorials at Rotman business school (as a teaching assistant), as well as multiple technical conference talks [in the past](https://www.susanshu.com/about){:target="_blank"}.
 
 However I always had enough time to exclusively practice one presentation in the past, so being able to get to the point of mastery where I didn't have to think too much on stage, was crucial because of all the different topics I was giving in a short span of time.
 
@@ -93,10 +92,10 @@ I also read the book, [Talk like TED, by Carmine Gallo](https://www.amazon.ca/Ta
 
 I feel that during this month of talks, I accomplished a lot, and got a lot of praise for my deliveries. For a technical topic I even got amazing feedback from business folks that they were able to follow the talk! I think that crafting the headers of the slides to have the high level conclusion really helped - even if they space out because of the math equations on my slides, they can get the reasons for using that algorithm, at least.
 
+<img style="padding: 15px; float: left;" src="/assets/talk_schedule.jpg" width="315"/>
+
 However, I'd really try to avoid such a busy schedule in the future, because my body really took a toll. I actually threw up for an hour the day before my last talk, and didn't sleep well. I had to take a nap in the conference green room on the day of that last talk... And then I got sick right after for a week. While I feel like I ate and slept at a normal schedule during the entire month, I didn't have time to take a break even on weekends, and that cause my body to be high strung for too long, and once I just relaxed it all, it hit me (the let-down effect). 
 
 One more thing is that I aggressively asked for feedback, and was able to improve throughout the month. I think in the last talk, I wasn't maintaining my energy level, which was also a feedback I got during the month. (It also could have been due to the condition of my body and lack of sleep), but having been through this experience I hope to improve so I can avoid my energy level going down throughout a long talk.
 
-<img style="padding: 15px; float: left;" src="/assets/talk_schedule.jpg" width="315"/>
-
-Lastly, my time management and discpline tactics worked well - I had this as my phone wall paper for the entire month. It's a checklist of milestones such as when the dry runs were scheduled, when I planned to have the MVP slides done, and so on.
+Lastly, my time management and discpline tactics worked well - I had the image to the left as my phone wall paper for the entire month. It's a checklist of milestones such as when the dry runs were scheduled, when I planned to have the MVP slides done, and so on.
