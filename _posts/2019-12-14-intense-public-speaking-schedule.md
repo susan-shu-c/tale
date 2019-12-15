@@ -81,7 +81,7 @@ For a person that never liked making slides before, it was life-changing. I star
 
 My main tips are:
 
-### Use headers to drive home the point of that slide
+### Use headers to drive home the point of each slide
 
 Instead of using headers as the title of a list of bullet points (e.g. "Benefits of Alternating Least Squares algorithm", then bullet point - benefit 1, bullet point - benefit 2), basically have your conclusion of the slide in the header or kicker (e.g. "Alternating Least Squares achieves high accuracy with lightweight data"). The header of the slide is precious real estate - if the audience only reads one thing on the slide (happens more often than not), it's probably the header. So, with well worded headers, even if the audience is spacing out and only reads the header, they can still get the main takeaway!
 
@@ -95,7 +95,7 @@ I also read the book, [Talk like TED, by Carmine Gallo](https://www.amazon.ca/Ta
 
 ### What I did well this time
 
-I feel that during this month of talks, I accomplished a lot, and got a lot of praise for my deliveries. For one technical topic I even got amazing feedback from non-technical folks that they were able to follow the talk! I think that crafting the headers of the slides to have the high level conclusion really helped - even if the business-side folks space out because of the math equations on my slides, they can still rememeber the reasons for using that algorithm, at least.
+I feel that during this month of talks, I accomplished a lot, and got a lot of praise for my deliveries. For one technical topic I even got amazing feedback from non-technical folks that they were able to follow the talk! I think that crafting the headers of the slides to have the high level conclusion really helped - even if the business-side folks space out because of the math equations on my slides, they can still remember the reasons for using that algorithm, at least.
 
 <img style="padding: 15px; float: left;" src="/assets/talk_schedule.jpg" width="315"/>
 
