@@ -7,6 +7,9 @@ categories: tech
 
 In the month of November 2019, I had multiple public speaking engagements within a very short time span - at the tightest, I delivered 5 talks in 10 days. That's one talk in 2 days! Here are the 3 main tactics I used to be prepared for the different content as well as the presentations themselves.
 
+* TOC
+{:toc}
+
 ## The schedule
 
 The timeline was extremely tight - I had to have all my slides ready way in advance. Also, on each of the days I had other presentations, I basically didn't have time to prepare for other presentations as I would get home exhausted. So between Nov 7 and 18, I barely had a moment to practice.
