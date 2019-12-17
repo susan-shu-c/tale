@@ -95,11 +95,11 @@ I also read the book, [Talk like TED, by Carmine Gallo](https://www.amazon.ca/Ta
 
 ### What I did well this time
 
-I feel that during this month of talks, I accomplished a lot, and got a lot of praise for my deliveries. For one technical topic I even got amazing feedback from non-technical folks that they were able to follow the talk! I think that crafting the headers of the slides to have the high level conclusion really helped - even if the business-side folks space out because of the math equations on my slides, they can still remember the reasons for using that algorithm, at least.
+I feel that during this month of talks, I accomplished a lot, and got a lot of praise for my deliveries. For one technical topic I even got amazing feedback from non-technical folks that they were able to follow the talk! I think that crafting the headers of the slides to have the high level conclusion really helped - even if the business-side folks space out because of the math equations, they can at least remember the reasons for using the algorithm I'm explaining.
 
 <img style="padding: 15px; float: left;" src="/assets/talk_schedule.jpg" width="315"/>
 
-In addition, my time management and discipline tactics worked well - I had the image to the left as my phone wallpaper for the entire month. It's a checklist of milestones such as when the dry runs were scheduled, when I planned to have the MVP slides done, and so on. This really helped me stay on track despite my time being literally squeezed - even a tiny lapse could cause me to fail preparation for a talk.
+In addition, my time management and discipline tactics worked well - I had the image to the left as my phone wallpaper for the entire month. It's a checklist of milestones such as when the dry runs were scheduled, when I planned to have the MVP slides done, and so on. This really helped me stay on track despite my time being literally squeezed - even a tiny lapse could cause me to fail to prepare thoroughly for a talk.
 
 ### What I will change next time
 
@@ -108,3 +108,5 @@ Throughout the month, despite never skipping meals or sacrificing sleep (like in
 I mention this as a **warning** - I would never knowingly sacrifice my health, but like a first time drinker, I learned my limit and will actively avoid pushing it in the future (like most first time drinkers, right?). For example, I can reduce the let-down effect by regularly unwinding instead of letting stress accumulate for so long.
 
 I aggressively collected feedback throughout the month, and had gotten an observation that my energy level tends to start strong, but decreases throughout a talk. Looking back at my last talk of the month, I know I didn't maintain my high energy until the end, either. It could have been due to my illness that day, but this experience made me more mindful of energy level consistency, so I can improve in the future.
+
+All in all, I wouldn't trade this month for anything else - I got to speak at some amazing venues and meet so many amazing people. I'm excited to build upon what I learned and continue to deliver better and better talks!
