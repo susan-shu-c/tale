@@ -56,7 +56,7 @@ One thing to clarify - my presentation style is more conversational. I don't mem
 
 Apart from getting on stage and speaking, I spent *so much time* on making the content of the slides. Because some of my dry runs were scheduled up to 2 weeks before the respective talk dates, I had to ensure I had some bare bones content to present in advance.
 
-I literally did not have time to make the most polished versions of the slides during those first dry runs, but that's the beauty of the "lean" methodology of product improvement - getting feedback from an MVP (minimum viable product, a concept popularized by [The Lean Startup by Eric Ries](https://www.amazon.ca/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898/){:target="_blank"}).
+I literally did not have time to make the most polished versions of the slides during those first dry runs, but that's the beauty of the "lean" methodology of product improvement - getting feedback from an MVP (minimum viable product, a concept popularized by [The Lean Startup by Eric Ries](https://amzn.to/38OqxsK){:target="_blank"}*).
 
 Because I used skeletons of slide content, I was able to iterate quickly on feedback before polishing (spending hours creating well-formatted math equations, dragging images around to beautify the layout...). If I had gotten the slides to 100% polish all before the dry runs, and then deleted or added slides according to the feedback, I would have have wasted all the time I took to polish the slides.
 
@@ -89,7 +89,7 @@ Instead of using headers as the title of a list of bullet points (e.g. "Benefits
 
 A talk is like a performance; instead of, say, an instrument, you're doing the performance with words and visuals. The goal of this performance is for the audience to understand some topic, or even to be persuaded. The performance can even be seen as a product in this sense, which is why I treat the slides and talk like an MVP, and ask for feedback aggressively. Following this logic, when creating the product, consisting of slides and words, thinking from the perspective of the user is important! I guess it's like user interface design and optimization... How can the user can most intuitively form a connection with the product through the interface?
 
-I also read the book, [Talk like TED, by Carmine Gallo](https://www.amazon.ca/Talk-Like-TED-Public-Speaking-Secrets/dp/1250041120){:target="_blank"} to improve how my visual content and words could compliment each other to reach the audience. The book breaks down select TED talks, and so I watched the videos to get isolated observations that I could then use to improve my own talks.
+I also read the book, [Talk like TED, by Carmine Gallo](https://amzn.to/2ExMM8s){:target="_blank"}* to improve how my visual content and words could compliment each other to reach the audience. The book breaks down select TED talks, and so I watched the videos to get isolated observations that I could then use to improve my own talks.
 
 ## How I would improve my talks in the future
 
